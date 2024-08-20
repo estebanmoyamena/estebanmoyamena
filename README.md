@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/esteban-moya-mena/" target="_blank">
-    <img src="../estebanmoyamena/assets/banner.jpg" alt="Esteban Moya" width="800" height="200"/>
+    <img src="assets/banner.jpg" alt="Esteban Moya" width="800" height="200"/>
   </a>
 </p>
 
