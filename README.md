@@ -1,11 +1,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/esteban-moya-mena/" target="_blank">
-    <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/330381103/original/114f73b6b65baeb8e3aa3ef7b7c0d2563a103530/develop-a-fullstack-java-springboot-mysql-website.png" alt="Esteban Moya" width="800" height="200"/>
+    <img src="../estebanmoyamena/assets/banner.jpg" alt="Esteban Moya" width="800" height="200"/>
   </a>
 </p>
-# Esteban Moya
-
-![Profile Picture](https://via.placeholder.com/150)
 
 ## Developer - Java, Spring Boot, HTML, CSS, Bootstrap
 
@@ -18,7 +15,7 @@ I am Esteban Moya, an enthusiastic developer with a strong foundation in **Java*
 ---
 
 ### Skills
-
+<div align="center"> 
 | Skill          | Logo |
 |----------------|------|
 | **Java**       | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) |
@@ -26,8 +23,22 @@ I am Esteban Moya, an enthusiastic developer with a strong foundation in **Java*
 | **HTML**       | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) |
 | **CSS**        | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
 | **Bootstrap**  | ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg) |
+</div>
 
 ---
+
+### GitStatus
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=estebanmoyamena&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" target="_blank">
+    <img src="../estebanmoyamena/assets/git.png" alt="Esteban Moya" width="600" height="200"/>
+  </a>
+</p>
+
+
+---
+
+
 
 ### Projects
 
@@ -41,8 +52,8 @@ Here are some of my featured projects:
 
 ### Contact Me
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [GitHub Profile](#)
+- **Email**: [moyamena@gmail.com](mailto:moyamena@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/esteban-moya-mena/](#)
+
 
 
