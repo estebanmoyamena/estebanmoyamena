@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/banner.jpg" alt="Esteban Moya" width="800" height="200"/>
+    <img src="assets/banner.jpg" alt="Esteban Moya" width="900" height="250"/>
   </a>
 </p>
 
@@ -14,7 +14,7 @@ I am Esteban Moya, an enthusiastic developer with a strong foundation in **Java*
 ---
 
 ### Skills
-<div align="center"> 
+
 | Skill          | Logo |
 |----------------|------|
 | **Java**       | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) |
@@ -22,7 +22,7 @@ I am Esteban Moya, an enthusiastic developer with a strong foundation in **Java*
 | **HTML**       | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) |
 | **CSS**        | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
 | **Bootstrap**  | ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg) |
-</div>
+
 
 ---
 
@@ -30,7 +30,7 @@ I am Esteban Moya, an enthusiastic developer with a strong foundation in **Java*
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=estebanmoyamena&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" target="_blank">
-    <img src="../estebanmoyamena/assets/git.png" alt="Esteban Moya" width="600" height="200"/>
+    <img src="assets/git.png" alt="Esteban Moya" width="600" height="200"/>
   </a>
 </p>
 
@@ -43,9 +43,9 @@ I am Esteban Moya, an enthusiastic developer with a strong foundation in **Java*
 
 Here are some of my featured projects:
 
-- **[Project 1](#)**: A brief description of what this project does and what technologies it uses.
-- **[Project 2](#)**: A brief description of what this project does and what technologies it uses.
-- **[Project 3](#)**: A brief description of what this project does and what technologies it uses.
+- **[https://github.com/estebanmoyamena/BootcApp ](#)**: Java-Springboot-MySql-Maven implementation.
+- **[https://github.com/estebanmoyamena/viajes_chile](#)**: Frontend Html-Css-Bootstrap implementation.
+- **[https://github.com/estebanmoyamena/reciclajeans](#)**: Backend Java implementation.
 
 ---
 
