@@ -14,7 +14,7 @@ I am Esteban Moya, an enthusiastic developer with a strong foundation in **Java*
 ---
 
 ### Skills
-<div align="center"> 
+
 | Skill          | Logo |
 |----------------|------|
 | **Java**       | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) |
@@ -22,7 +22,6 @@ I am Esteban Moya, an enthusiastic developer with a strong foundation in **Java*
 | **HTML**       | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) |
 | **CSS**        | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
 | **Bootstrap**  | ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg) |
-</div>
 
 ---
 
