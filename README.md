@@ -1,5 +1,7 @@
 <p align="center">
+
     <img src="assets/banner2.gif" alt="Esteban Moya" width="900" height="250"/>
+
   </a>
 </p>
 
@@ -53,6 +55,3 @@ Here are some of my featured projects:
 
 - **Email**: [moyamena@gmail.com](mailto:moyamena@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/esteban-moya-mena/](#)
-
-
-
