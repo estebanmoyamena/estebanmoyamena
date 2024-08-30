@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/banner.jpg" alt="Esteban Moya" width="900" height="250"/>
+    <img src="assets/banner2.gif" alt="Esteban Moya" width="900" height="250"/>
   </a>
 </p>
 
